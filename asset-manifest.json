@@ -1,8 +1,9 @@
 {
-  "main.css": "static/css/main.c7c1f694.css",
-  "main.css.map": "static/css/main.c7c1f694.css.map",
-  "main.js": "static/js/main.95bd64f9.js",
-  "main.js.map": "static/js/main.95bd64f9.js.map",
+  "main.css": "static/css/main.3c1d7441.css",
+  "main.css.map": "static/css/main.3c1d7441.css.map",
+  "main.js": "static/js/main.34d810a1.js",
+  "main.js.map": "static/js/main.34d810a1.js.map",
+  "static\\media\\AllmanInfoLarare.pdf": "static/media/AllmanInfoLarare.0bb325d4.pdf",
   "static\\media\\Ekvation.pdf": "static/media/Ekvation.b2bb0831.pdf",
   "static\\media\\Ekvation.png": "static/media/Ekvation.7c808bf3.png",
   "static\\media\\Ekvation.pptx": "static/media/Ekvation.61d2322a.pptx",
@@ -16,6 +17,7 @@
   "static\\media\\FrittFall.pptx": "static/media/FrittFall.0a4bb532.pptx",
   "static\\media\\Frittfall1.pdf": "static/media/Frittfall1.c2d84a06.pdf",
   "static\\media\\Info.pdf": "static/media/Info.315acd70.pdf",
+  "static\\media\\KandidatLoggaWide.png": "static/media/KandidatLoggaWide.bafcdd31.png",
   "static\\media\\Lopare.pdf": "static/media/Lopare.d1ed16dc.pdf",
   "static\\media\\Lopare.png": "static/media/Lopare.024601fa.png",
   "static\\media\\Lopare.pptx": "static/media/Lopare.903094c0.pptx",
@@ -23,8 +25,6 @@
   "static\\media\\Sortera.pdf": "static/media/Sortera.0c667ba4.pdf",
   "static\\media\\Sortera.png": "static/media/Sortera.e7daa28d.png",
   "static\\media\\Sortera.pptx": "static/media/Sortera.73c53064.pptx",
-  "static\\media\\lander.jpg": "static/media/lander.d846815e.jpg",
   "static\\media\\logo.svg": "static/media/logo.ee7cd8ed.svg",
-  "static\\media\\mathBackground.jpg": "static/media/mathBackground.1928b7d4.jpg",
   "static\\media\\test.jpg": "static/media/test.e7d587ac.jpg"
 }
