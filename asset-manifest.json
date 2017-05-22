@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.fd98feb3.css",
-  "main.css.map": "static/css/main.fd98feb3.css.map",
-  "main.js": "static/js/main.1aec1e75.js",
-  "main.js.map": "static/js/main.1aec1e75.js.map",
+  "main.css": "static/css/main.090204de.css",
+  "main.css.map": "static/css/main.090204de.css.map",
+  "main.js": "static/js/main.2df707b8.js",
+  "main.js.map": "static/js/main.2df707b8.js.map",
   "static\\media\\Chiffer.pdf": "static/media/Chiffer.ea35e8e7.pdf",
   "static\\media\\Ekvation.pdf": "static/media/Ekvation.f89d3e68.pdf",
   "static\\media\\Ekvation.png": "static/media/Ekvation.7c808bf3.png",
@@ -18,6 +18,10 @@
   "static\\media\\Frittfall.pdf": "static/media/Frittfall.f9ec17d5.pdf",
   "static\\media\\Irrationellatal.pdf": "static/media/Irrationellatal.c19763c7.pdf",
   "static\\media\\KandidatLoggaWide.png": "static/media/KandidatLoggaWide.bafcdd31.png",
+  "static\\media\\Lampa1.png": "static/media/Lampa1.6e54d3bd.png",
+  "static\\media\\Lampa2.png": "static/media/Lampa2.50aec55d.png",
+  "static\\media\\Lampa3.png": "static/media/Lampa3.bb366bdc.png",
+  "static\\media\\Lampa3W.png": "static/media/Lampa3W.12295b53.png",
   "static\\media\\Lopare.pdf": "static/media/Lopare.df02afbf.pdf",
   "static\\media\\Lopare.png": "static/media/Lopare.024601fa.png",
   "static\\media\\Lopare.pptx": "static/media/Lopare.e2dde50a.pptx",
@@ -28,6 +32,5 @@
   "static\\media\\Sortera.png": "static/media/Sortera.e7daa28d.png",
   "static\\media\\Sortera.pptx": "static/media/Sortera.096923db.pptx",
   "static\\media\\Sorteringsalgoritmer.pdf": "static/media/Sorteringsalgoritmer.bd2fe18f.pdf",
-  "static\\media\\logo.svg": "static/media/logo.ee7cd8ed.svg",
-  "static\\media\\test.jpg": "static/media/test.e7d587ac.jpg"
+  "static\\media\\logo.svg": "static/media/logo.ee7cd8ed.svg"
 }
