@@ -1,0 +1,50 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'animate.css',
+1 verbose cli   '--save' ]
+2 info using npm@2.15.8
+3 info using node@v4.4.7
+4 verbose install initial load of C:\Users\MattiasJ\Documents\Hemsida - Matematiskt tänkande för gymnasiet\matematiskt\web-app\package.json
+5 verbose installManyTop reading scoped package data from C:\Users\MattiasJ\Documents\Hemsida - Matematiskt tänkande för gymnasiet\matematiskt\web-app\node_modules\hover.css\package.json
+6 verbose installManyTop reading scoped package data from C:\Users\MattiasJ\Documents\Hemsida - Matematiskt tänkande för gymnasiet\matematiskt\web-app\node_modules\react\package.json
+7 verbose installManyTop reading scoped package data from C:\Users\MattiasJ\Documents\Hemsida - Matematiskt tänkande för gymnasiet\matematiskt\web-app\node_modules\react-dom\package.json
+8 verbose installManyTop reading scoped package data from C:\Users\MattiasJ\Documents\Hemsida - Matematiskt tänkande för gymnasiet\matematiskt\web-app\node_modules\react-scripts\package.json
+9 info package.json hover.css@2.2.0 No license field.
+10 verbose readDependencies loading dependencies from C:\Users\MattiasJ\Documents\Hemsida - Matematiskt tänkande för gymnasiet\matematiskt\web-app\package.json
+11 silly cache add args [ 'animate.css', null ]
+12 verbose cache add spec animate.css
+13 silly cache add parsed spec Result {
+13 silly cache add   raw: 'animate.css',
+13 silly cache add   scope: null,
+13 silly cache add   name: null,
+13 silly cache add   rawSpec: 'animate.css',
+13 silly cache add   spec: 'C:\\Users\\MattiasJ\\Documents\\Hemsida - Matematiskt tänkande för gymnasiet\\matematiskt\\web-app\\public\\animate.css',
+13 silly cache add   type: 'local' }
+14 silly addLocalTarball shasum (computed) b6fd60d18ef742ea5f6979df0cddb35791c4fbe5
+15 verbose addTmpTarball C:\Users\MattiasJ\Documents\Hemsida - Matematiskt tänkande för gymnasiet\matematiskt\web-app\public\animate.css not in flight; adding
+16 verbose correctMkdir C:\Users\MattiasJ\AppData\Roaming\npm-cache correctMkdir not in flight; initializing
+17 verbose addTmpTarball validating metadata from C:\Users\MattiasJ\Documents\Hemsida - Matematiskt tänkande för gymnasiet\matematiskt\web-app\public\animate.css
+18 verbose tar unpack C:\Users\MattiasJ\Documents\Hemsida - Matematiskt tänkande för gymnasiet\matematiskt\web-app\public\animate.css
+19 verbose tar unpacking to C:\Users\MattiasJ\AppData\Local\Temp\npm-12812-925d7512\unpack-e7000bc04163
+20 silly gentlyRm C:\Users\MattiasJ\AppData\Local\Temp\npm-12812-925d7512\unpack-e7000bc04163 is being purged
+21 verbose gentlyRm don't care about contents; nuking C:\Users\MattiasJ\AppData\Local\Temp\npm-12812-925d7512\unpack-e7000bc04163
+22 silly gunzTarPerm modes [ '777', '666' ]
+23 error not a package C:\Users\MattiasJ\Documents\Hemsida - Matematiskt tänkande för gymnasiet\matematiskt\web-app\public\animate.css
+24 error addLocal Could not install C:\Users\MattiasJ\Documents\Hemsida - Matematiskt tänkande för gymnasiet\matematiskt\web-app\public\animate.css
+25 verbose stack Error: ENOENT: no such file or directory, open 'C:\Users\MattiasJ\AppData\Local\Temp\npm-12812-925d7512\unpack-e7000bc04163\package.json'
+25 verbose stack     at Error (native)
+26 verbose cwd C:\Users\MattiasJ\Documents\Hemsida - Matematiskt tänkande för gymnasiet\matematiskt\web-app\public
+27 error Windows_NT 10.0.14393
+28 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "animate.css" "--save"
+29 error node v4.4.7
+30 error npm  v2.15.8
+31 error path C:\Users\MattiasJ\AppData\Local\Temp\npm-12812-925d7512\unpack-e7000bc04163\package.json
+32 error code ENOENT
+33 error errno -4058
+34 error syscall open
+35 error enoent ENOENT: no such file or directory, open 'C:\Users\MattiasJ\AppData\Local\Temp\npm-12812-925d7512\unpack-e7000bc04163\package.json'
+35 error enoent This is most likely not a problem with npm itself
+35 error enoent and is related to npm not being able to find a file.
+36 verbose exit [ -4058, true ]
